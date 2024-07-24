@@ -10,4 +10,4 @@ def factorial(x):
 
 
 num = 3
-print("The factorial of", num, "is", factorial(num))
+print("The FACT of", num, "is", factorial(num))
